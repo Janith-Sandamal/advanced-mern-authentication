@@ -7,7 +7,7 @@ import loginImg from '../../assets/login.svg'
 const Home = () => {
   return (
     <div>
-        <Header/>
+        
 
         <section className='container hero'>
           <div className='hero-text'>
@@ -30,7 +30,7 @@ const Home = () => {
 
         </section>
 
-        <Footer/>
+        
     </div>
   )
 }
